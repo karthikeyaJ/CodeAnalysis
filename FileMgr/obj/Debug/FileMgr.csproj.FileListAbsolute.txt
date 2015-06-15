@@ -1,0 +1,6 @@
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\FileMgr\obj\Debug\FileMgr.pdb

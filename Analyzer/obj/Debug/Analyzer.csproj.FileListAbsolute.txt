@@ -1,0 +1,13 @@
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\bin\Debug\FileMgr.exe
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\bin\Debug\Parser.exe
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\bin\Debug\FileMgr.pdb
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\bin\Debug\Parser.pdb
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\venkatakarthikeya\Desktop\practise\vshelp\Analyzer\obj\Debug\Analyzer.pdb
+E:\gitprojects\CodeAnalysis\Analyzer\bin\Debug\Analyzer.exe.config
+E:\gitprojects\CodeAnalysis\Analyzer\obj\Debug\Analyzer.exe
+E:\gitprojects\CodeAnalysis\Analyzer\obj\Debug\Analyzer.pdb
